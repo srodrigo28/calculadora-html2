@@ -3,12 +3,7 @@
 > * Screens
 
 <img src="./desktop.png" alt="não carregou imagem da calculadora :(" >
-
->#### Ref.
-```
-https://www.youtube.com/watch?v=y6SmC_1kUAs
-```
-
+<br />
 > #### Icons Fontawesome
 ```
 https://fontawesome.com/search?m=free&o=r
